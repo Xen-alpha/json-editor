@@ -477,6 +477,8 @@ languages.ko = {
   button_copy: '복사',
   button_copy_row_title: '{{0}} 복사',
   button_copy_row_title_short: '복사',
+  button_delete: '삭제',
+  button_delete_title: '삭제',
   button_delete_all: '전부 삭제',
   button_delete_all_title: '전부 삭제',
   button_delete_last: '마지막 {{0}} 삭제',
