@@ -101,6 +101,7 @@
     "webpack-merge": "^4.2.2"
   },
   "dependencies": {
+    "@json-editor/json-editor": "file:",
     "core-js": "^3.27.2"
   }
 }
